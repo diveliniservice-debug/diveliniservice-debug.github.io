@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Only indexable pages. Arabic and the legal drafts carry noindex and stay out. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.amadillo.ae/</loc></url>
-  <url><loc>https://www.amadillo.ae/investors</loc></url>
+  <url><loc>https://amadillo.ae/</loc></url>
+  <url><loc>https://amadillo.ae/investors</loc></url>
 </urlset>
