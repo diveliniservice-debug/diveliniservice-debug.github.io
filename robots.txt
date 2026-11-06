@@ -1,3 +1,5 @@
 # Pages that must stay out of search carry noindex. Crawlers can only read that if they may fetch the page.
 User-agent: *
 Allow: /
+
+Sitemap: https://amadillo.ae/sitemap.xml
