@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://amadillo.ae/sitemap.xml
+Sitemap: https://www.amadillo.ae/sitemap.xml
